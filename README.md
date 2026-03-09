@@ -1,5 +1,5 @@
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/95fabe56-c76f-414a-8276-c0ca3fbe8071" /><h1 align="center"> Hi👋 I'm Samriddhi</h1>
-<h3 align="center">AWS Certified Solutions Architect | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">AWS Certified Solutions Architect Associate | Cloud & DevOps Enthusiast</h3>
 
 
 📦 Building cloud projects with Infrastructure as Code </br>
